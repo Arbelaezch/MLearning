@@ -1,2 +1,2 @@
 # MLearning
-Notes or basic projects for learning ML.
+Notes or basic projects for ML.
